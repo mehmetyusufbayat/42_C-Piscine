@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_iterative_power.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mebayat <mebayt@student.42.fr>             +#+  +:+       +#+        */
+/*   By: mebayat <mebayat@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/07 11:38:37 by mebayat           #+#    #+#             */
 /*   Updated: 2022/09/07 13:19:25 by mebayat          ###   ########.fr       */

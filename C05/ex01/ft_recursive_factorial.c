@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_recursive_factorial.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mebayat <mebayt@student.42.fr>             +#+  +:+       +#+        */
+/*   By: mebayat <mebayat@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/07 09:26:52 by mebayat           #+#    #+#             */
 /*   Updated: 2022/09/09 09:38:08 by mebayat          ###   ########.fr       */
